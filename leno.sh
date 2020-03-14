@@ -1,0 +1,6 @@
+alias ga="git add ."
+alias gc="git commit -m "
+alias gp="git push origin master"
+alias gs="git status"
+alias pm="python manage.py"
+alias venv="pipenv shell"
